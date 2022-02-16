@@ -37,7 +37,7 @@
 -
   index: 'map_8'
   country_name: 'AUSTRALIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_9'
@@ -107,7 +107,7 @@
 -
   index: 'map_22'
   country_name: 'BRAZIL'
-  visited: false
+  visited: true
 
 -
   index: 'map_23'
@@ -132,7 +132,7 @@
 -
   index: 'map_27'
   country_name: 'CAMBODIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_28'
@@ -142,7 +142,7 @@
 -
   index: 'map_29'
   country_name: 'CANADA'
-  visited: false
+  visited: true
 
 -
   index: 'map_30'
@@ -187,7 +187,7 @@
 -
   index: 'map_38'
   country_name: 'CROATIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_39'
@@ -262,7 +262,7 @@
 -
   index: 'map_53'
   country_name: 'ETHIOPIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_54'
@@ -357,12 +357,12 @@
 -
   index: 'map_72'
   country_name: 'INDIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_73'
   country_name: 'INDONESIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_74'
@@ -422,7 +422,7 @@
 -
   index: 'map_85'
   country_name: 'KUWAIT'
-  visited: false
+  visited: true
 
 -
   index: 'map_86'
@@ -497,7 +497,7 @@
 -
   index: 'map_100'
   country_name: 'MALDIVES'
-  visited: false
+  visited: true
 
 -
   index: 'map_101'
@@ -522,7 +522,7 @@
 -
   index: 'map_105'
   country_name: 'MEXICO'
-  visited: false
+  visited: true
 
 -
   index: 'map_106'
@@ -567,12 +567,12 @@
 -
   index: 'map_114'
   country_name: 'NETHERLANDS'
-  visited: false
+  visited: true
 
 -
   index: 'map_115'
   country_name: 'NEW ZEALAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_116'
@@ -622,7 +622,7 @@
 -
   index: 'map_125'
   country_name: 'PAPUA NEW GUINEA'
-  visited: false
+  visited: true
 
 -
   index: 'map_126'
@@ -802,7 +802,7 @@
 -
   index: 'map_161'
   country_name: 'THAILAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_162'
@@ -836,8 +836,8 @@
 
 -
   index: 'map_168'
-  country_name: 'UGANDA'
-  visited: false
+  country_name: 'UGANDA<br><span style="color: yellow;">https://www.humanitarianlibrary.org/resource/bidibidi-refugee-settlement-environmental-scoping-report-and-recommendations</span>'
+  visited: true
 
 -
   index: 'map_169'
